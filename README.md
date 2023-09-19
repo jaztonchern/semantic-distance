@@ -13,7 +13,7 @@ This repository contains the research project materials and code for investigati
 - `stimuli.R`: Script related cleaning up stimuli list.
 - `swow_network.R`: Script to create the network model for generating stimuli.
 
-## Data and Analysis
+## Results
 
 - `cleaned_data_(correct_vs_wrong).csv`: Cleaned data that distinguishes correct and wrong responses.
 - `cleaned_data_with_demog.csv`: Cleaned data including demographic information.
