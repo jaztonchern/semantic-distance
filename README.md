@@ -27,9 +27,14 @@ This repository contains the research project materials and code for investigati
 - `processed_data_(by_condition).csv`: Processed data categorised by condition.
 - `tsr_output.csv`: Contains data related to the token sort ratio of responses.
 
+## Protocol
+
+- The Protocol folder contains the study protocol, which can be run by hosting the study locally or on a server.
+
 ## Additional Information
 
 - `study_design.json`: Study design in JSON format, available in the main directory.
+  Note: This .json file is created using lab.js, and can be accessed and edited on https://labjs.felixhenninger.com.
 
 For detailed insights into the project, methodologies, and findings, please refer to the scripts and data files provided.
 
