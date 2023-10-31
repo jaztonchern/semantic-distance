@@ -1,0 +1,36 @@
+{
+  "version": "3",
+  "data": {
+    "uuid": "afce8186-bb23-4dde-8266-929a68d36c0e",
+    "title": "PAL task",
+    "description": "Paired associates learning task, using template by Felix Ludwig and Felix Henninger on Lab.js",
+    "groupStudy": false,
+    "dirName": "pal-task",
+    "comments": "",
+    "jsonData": null,
+    "componentList": [
+      {
+        "uuid": "a50e1988-2b7a-46df-a8e6-02152af33f2a",
+        "title": "PAL task",
+        "htmlFilePath": "index.html",
+        "reloadable": true,
+        "active": true,
+        "comments": "",
+        "jsonData": null
+      }
+    ],
+    "batchList": [
+      {
+        "uuid": "aa192469-d3fd-4f27-a22e-1946484bb822",
+        "title": "Default",
+        "active": true,
+        "maxActiveMembers": null,
+        "maxTotalMembers": null,
+        "maxTotalWorkers": null,
+        "allowedWorkerTypes": null,
+        "comments": null,
+        "jsonData": null
+      }
+    ]
+  }
+}
